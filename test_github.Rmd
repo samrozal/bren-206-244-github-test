@@ -13,7 +13,7 @@ Here's some code (change the variable names and values):
 ```{r}
 # Change these variable names and values:
 
-green <- 15
+bulbasaur <- 15
 
 pikachu <- 17
 
